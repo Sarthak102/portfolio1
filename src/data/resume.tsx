@@ -75,7 +75,7 @@ export const DATA = {
       start: "March 2025",
       end: "May 2025",
       description:
-        "During summer internship at ONGC in 2024, I developed an inventory management system to replace physical logbooks. The system featured functionalities such as product addition, issuance, and monthly report generation, utilizing HTML and CSS for the frontend and PHP with MySQL for backend operations.",
+        "At Tech Mahindra, I worked as a Support Trainee from March to May 2025, where I contributed to frontend development using React.js. I revamped the application UI/UX, introduced dark mode support, and integrated modern design elements to enhance the overall user experience. This involved close collaboration with design and backend teams to ensure seamless functionality and alignment with business goals, utilizing tools like TypeScript, Figma, and TailwindCSS.",
     },
     {
       company: "ONGC",
@@ -294,7 +294,7 @@ export const DATA = {
       dates: "September 18th - October 9th, 2024",
       location: "Pune, India",
       description:
-        "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
+        "This project offers an AI-driven solution for extracting structured line-item data from medical invoices by detecting tables using OCR and transformer-based NLP models. It combines Google Cloud Vision API, a custom handwriting CNN, and BERT-based NLP for high-accuracy extraction from both printed and handwritten invoices. Built with FastAPI and React.js, it features a real-time validation interface and is deployable via Docker or Google Cloud, aiming to streamline medical billing automation.",
       image:
         "https://www.bajajgroup.company/wp-content/uploads/2024/05/Bajajlogo3.jpg",
       mlh: "https://hackrx.in/?viewport=desktop",
