@@ -111,6 +111,56 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Awarrdss Clone",
+      href: "https://awards-website-clone.vercel.app/",
+      dates: "January 2025 - February 2025",
+      active: true,
+      description:
+        "The Awards Website Clone is a visually rich, scroll-animated website inspired by Zentry, featuring geometric transitions, 3D hover effects using GSAP, and clip-path animations. It delivers an engaging user experience through responsive design, video storytelling, and reusable UI components styled with Tailwind CSS.",
+      technologies: [
+        "ReactJs", "TailwindCSS", "ViteJs"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://awards-website-clone.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Sarthak102/Awards-website-clone",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "/awards-video.mp4",
+    },
+    {
+      title: "Xora Website Clone",
+      href: "https://xora-website-clone-sable.vercel.app/",
+      dates: "January 2025 - February 2025",
+      active: true,
+      description:
+        "The Xora Website UI Clone is a sleek, fully responsive SaaS landing page built with React and Vite. It includes essential sections like hero, features, pricing, FAQs, and testimonials, enhanced with smooth animations, advanced CSS gradients, and a modular component-based structure for optimized performance.",
+      technologies: [
+        "ReactJs", "TailwindCSS", "ViteJs"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://xora-website-clone-sable.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Sarthak102/xora-website-clone",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video: "/xora-video.mp4",
+    },
+    {
       title: "UI/UX Design of Ecommerce Website",
       href: "https://www.figma.com/design/IyZePDvfYqWsta7XQBVfmO/Untitled?node-id=0-1&t=i9l5b7XTtBXcmsVT-1",
       dates: "October 2024 - November 2024",
