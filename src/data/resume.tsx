@@ -66,6 +66,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Tech Mahindra",
+      href: "https://www.techmahindra.com/",
+      badges: [],
+      location: "Pune",
+      title: "Support Trainee",
+      logoUrl: "/TechM.png",
+      start: "March 2025",
+      end: "May 2025",
+      description:
+        "During summer internship at ONGC in 2024, I developed an inventory management system to replace physical logbooks. The system featured functionalities such as product addition, issuance, and monthly report generation, utilizing HTML and CSS for the frontend and PHP with MySQL for backend operations.",
+    },
+    {
       company: "ONGC",
       href: "https://ongcindia.com/web/eng",
       badges: [],
@@ -75,7 +87,7 @@ export const DATA = {
       start: "June 2024",
       end: "July 2024",
       description:
-        "During a summer internship at ONGC in 2024, I developed an inventory management system to replace physical logbooks. The system featured functionalities such as product addition, issuance, and monthly report generation, utilizing HTML and CSS for the frontend and PHP with MySQL for backend operations.",
+        "During summer internship at ONGC in 2024, I developed an inventory management system to replace physical logbooks. The system featured functionalities such as product addition, issuance, and monthly report generation, utilizing HTML and CSS for the frontend and PHP with MySQL for backend operations.",
     },
     {
       company: "Explore It",
